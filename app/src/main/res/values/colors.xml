@@ -9,6 +9,7 @@
 
     <color name="lazio_sky_blue">#A7C6ED</color>
     <color name="lazio_white">#FFFFFF</color>
+    <color name="lazio_dark_blue">#4A90E2</color>
     <color name="lazio_grey">#E8EEF4</color>
 
     <color name="position_goalkeeper">#FFC107</color> // Kuning
