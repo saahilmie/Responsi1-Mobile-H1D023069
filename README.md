@@ -8,6 +8,7 @@
 
 # Video Demo Aplikasi
 
+![Demo Aplikasi](assets/Responsi1_Mobile_H1D023069.gif) <br>
 
 # Alur Data
 <b> 1. Inisialisasi API Service <br><br> </b>
@@ -148,3 +149,13 @@ MainActivity.onCreate()
                   └── Position <br><br>
 
 # Screenshot Aplikasi
+
+![Main Activity](assets/MainActivity.png) <br>
+
+![Club History Activity](assets/ClubHistoryActivity.png) <br>
+
+![Head Coach Activity](assets/HeadCoachActivity.png) <br>
+
+![Team Squad Activity 1](assets/TeamSquadActivity1.png) <br>
+
+![Team Squad Activity 2](assets/TeamSquadActivity2.png) <br>
